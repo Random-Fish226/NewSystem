@@ -1,4 +1,4 @@
-# System Info Fetcher  
+# NewSystem
 A simple Python script that retrieves **publicly available system information** (device name, OS, timestamp).  
 
 ## Usage  
